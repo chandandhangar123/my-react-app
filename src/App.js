@@ -53,10 +53,12 @@ function App() {
 
   return (
     <div className="App">
-      <div className="App">
-  <h1>My DevOps Learning Dashboard</h1>
-  <p>CI/CD Pipeline Test - Version 2</p>
-  <p>Welcome, {username}!</p>
+      return (
+  <div className="App">
+    <div className="App">
+      <h1>My DevOps Learning Dashboard</h1>
+      <p>CI/CD Pipeline Test - Version 2</p>
+      <p>Welcome, {username}!</p>
       
 
       <div className="cards">
